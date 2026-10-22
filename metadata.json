@@ -1,0 +1,6 @@
+{
+  "name": "TeleVideo Pro - Telegram Mini App",
+  "description": "পেশাদার ভিডিও হাব এবং ৩-টাস্ক আনলক সিস্টেম সহ টেলিগ্রাম মিনি অ্যাপ (Telegram Mini App with In-App Video Player, 3-Task Unlocker & Bot Download Gate)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
